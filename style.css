@@ -1,0 +1,22 @@
+body {}
+.orange {color: orange;}
+.half-width {width: 50%;
+padding: 20px;}
+.flex {display: flex;
+font-size: 40px;
+margin-bottom: 100px;}
+.big {font-size:70px;}
+#img {margin-top: 40px;}
+#bimg {background-image: url(Frame\ 58.jpg);
+background-repeat: no-repeat;}
+.Button {font-weight: 700;
+padding: 10px 20px;
+border-radius: 15px;
+background-image: linear-gradient(orange, red);
+color: white;
+text-decoration: none;
+}
+#AU {padding-bottom: 70px;}
+#diet {padding-left: 20px;}
+.p {font-size: 40px;}
+.third {text-align: center;}
